@@ -61,9 +61,6 @@ files:
         }
     }
   learner_created: false
-- name: src/bot/QAForSimpleBot.java
-  visible: true
-  learner_created: true
 feedback_link: https://hyperskill.org/projects/31/stages/165/implement
 status: Failed
 record: 1
